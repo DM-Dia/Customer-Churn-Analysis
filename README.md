@@ -1,2 +1,2 @@
-# DIAS-ART-ESCAPE
-SAMPLE WEBSITE FOR BUYING ART SUPPLIES
+# 100 Days of Code
+Practicing leetcode problems
